@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @datalore92
-- 👀 I’m interested in modding bideo gaemz
-- 🌱 I’m currently learning how to mod the video game Hatred
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me 
+- 👋 Hi, I’m @datalore92.
+- 👀 I’m interested in getting good at the C programming language.
+- 🌱 I’m currently going through the book The C Programming Language Second Edition by Brian W. Kernighan and Dennis M. Ritchie.
+- 💞️ I’m not looking to collaborate on anything because I feel like I'm too inexperienced.
+- 📫 If you want to reach me, my Discord is data#9098.
 
 <!---
 datalore92/datalore92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
