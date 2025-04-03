@@ -9,7 +9,7 @@ I'm a programmer who enjoys building small, focused projects with clean, readabl
 
 ## 🚀 Featured Projects
 - [**Towers of Hanoi**](https://github.com/datalore92/TowersOfHanoi) - An interactive implementation of the classic puzzle game built with C and SDL2. Features multiple difficulty levels and cross-platform support.
-- [**TFTP Client**](https://github.com/datalore92/tftp-client) - A simple cross-platform TFTP (Trivial File Transfer Protocol) client application built with C and GTK3 that allows users to upload files to TFTP servers. 
+- [**TFTP Client**](https://github.com/datalore92/TFTP-Client) - A simple cross-platform TFTP (Trivial File Transfer Protocol) client application built with C and GTK3 that allows users to upload files to TFTP servers. 
 <!-- Add more projects as you create them -->
 
 ## 💡 What I Love
