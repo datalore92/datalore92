@@ -32,6 +32,13 @@ I'm a programmer who enjoys building small, focused projects with clean, readabl
 
 Feel free to check out my repositories and reach out if you'd like to collaborate!
 
+### ✨ Support My Work
+
+If you like what I do and want to support future projects, you can become a patron and help shape what I build next:
+
+👉 [**patreon.com/user?u=54915878**](https://patreon.com/user?u=54915878)
+
+
 <!--
 Fun fact: My username is inspired by the android Data from Star Trek: The Next Generation, 
 combined with the year '92!
