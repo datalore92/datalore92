@@ -11,6 +11,7 @@ I'm a programmer who enjoys building small, focused projects with clean, readabl
 - [**Towers of Hanoi**](https://github.com/datalore92/TowersOfHanoi) - An interactive implementation of the classic puzzle game built with C and SDL2. Features multiple difficulty levels and cross-platform support.
 - [**TFTP Client**](https://github.com/datalore92/TFTP-Client) - A simple cross-platform TFTP (Trivial File Transfer Protocol) client application built with C and GTK3 that allows users to upload files to TFTP servers.
 - [**N-Body Simulator**](https://github.com/datalore92/N-Body-Simulator) -  A cross-platform physics-based gravitational simulation with particle interactions built with C and SDL2.
+- [**Solana Token Creator**](https://github.com/datalore92/SolanaTokenCreator) - A user-friendly web application for creating and managing Solana SPL tokens. This project makes it easy to deploy your own token on Solana without requiring advanced technical knowledge.
 <!-- Add more projects as you create them -->
 
 ## 💡 What I Love
