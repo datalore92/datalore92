@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DataLore92
+# 👋 Hi, I'm Benji
 
 I'm a programmer who enjoys building small, focused projects with clean, readable code. My interests lie in game development, graphics programming, and creating interactive applications.
 
